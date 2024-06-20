@@ -29,7 +29,7 @@ The Turtle Crossing Game is a simple interactive game implemented in Python usin
 ## Installation
 1. **Clone the Repository:**
 ```
-git clone https://github.com/AmrithNiyogi/turtle-crossing.git
+git clone https://github.com/AmrithNiyogi/Turtle-Crossing.git
 ```
 
 2. **Navigate to the project directory:**
